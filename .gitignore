@@ -1,0 +1,15 @@
+.idea
+.venv
+./config
+.terraform.lock.hcl
+.terraform
+.terraform.tfstate.lock.info
+terraform.tfstate
+
+/package.json
+/package-lock.json
+/commitlint.config.js
+/composer.json
+/composer.lock
+/venv
+/node_modules
